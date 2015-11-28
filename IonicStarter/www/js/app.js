@@ -18,6 +18,16 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
       // org.apache.cordova.statusbar required
       StatusBar.styleLightContent();
     }
+
+    bluetoothSerial.enable(
+        function () {
+            console.log("Bluetooth is enabled");
+        },
+        function () {
+            console.log("Bluetooth is not enabled");
+        }
+    );
+
   });
 })
 
@@ -42,7 +52,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
     url: '/dash',
     views: {
       'tab-dash': {
-        templateUrl: 'templates/tab-dash.html',
+        templateUrl: 'templates/tab-control.html',
         controller: 'DashCtrl'
       }
     }

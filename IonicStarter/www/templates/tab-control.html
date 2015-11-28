@@ -1,5 +1,18 @@
 <ion-view view-title="Control">
   <ion-content class="padding">
+    <ion-refresher pulling-text="Pull to refresh..."
+                    on-refresh="onRefresh()">
+    </ion-refresher>
+      <button ng-show="stale" class="button button-full button-balanced" id="searchBtn" ng-click="btScan()">
+          Search for devices &nbsp; <div  ng-show="spinner"><ion-spinner icon="spiral"></ion-spinner></div>
+      </button>
+    <ion-list>
+        <ion-item class="item-icon-right" ng-repeat="device in devices" type="item-text-wrap" href="#/tab/ble/{{device.id}}">
+            <h2>{{device.name}}</h2>
+            <p>{{device.id}}</p>
+            <!--<i class="icon ion-chevron-right icon-accessory"></i>-->
+        </ion-item>
+    </ion-list>
     <div class="list card">
       <div class="item item-divider">Recent Updates</div>
       <div class="item item-body">
