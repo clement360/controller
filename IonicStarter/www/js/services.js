@@ -52,7 +52,7 @@ angular.module('starter.services', [])
 .factory('BT', function () {
     var connected;
 
-    function btFailure(stage) { console.log("Bluetooth error during " + stage + " stage."); };
+    function btFailure(stage, error) { console.log("Bluetooth error during " + stage + " stage. Error: " + error); };
 
     return {
         devices: [],
@@ -62,6 +62,7 @@ angular.module('starter.services', [])
 
             that.devices.length = 0;
             bluetoothSerial.discoverUnpaired(function (devices) {
+                console.log("Scan complete");
                 devices.forEach(function (device) {
                     console.log(JSON.stringify(device));
                     that.devices.push(device);
@@ -71,9 +72,33 @@ angular.module('starter.services', [])
             }, function(error){
                 console.log("ERROR: " + console.log(error));
                 callback();
-            });
-
-            
+            });   
+        },
+        connect: function (deviceId, callback) {
+            if (deviceId == 0)
+                deviceId = "30:14:06:24:12:98";
+            bluetoothSerial.connect(deviceId,
+                
+                function () {
+                    //success
+                    console.log("bluetooth connected!");
+                    callback(true);
+                },
+                callback(false)
+            );
+        },
+        disconnect: function (callback) {
+            bluetoothSerial.disconnect(
+                
+                function () {
+                    //success
+                    console.log("bluetooth disconnected!");
+                    callback(false);
+                }, callback(true)
+            );
+        },
+        write: function (value) {
+            bluetoothSerial.write(value, function () { console.log("SUCCESS = " + value) }, function () { console.log("FAIL= " + value) });
         }
     };
 });
