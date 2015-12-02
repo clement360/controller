@@ -1,4 +1,4 @@
-angular.module('starter.controllers', [])
+﻿angular.module('control', [])
 
 .controller('DashCtrl', function ($scope, BT) {
     $scope.devices = BT.devices;
@@ -18,8 +18,8 @@ angular.module('starter.controllers', [])
 
     // pull to refresh
     $scope.onRefresh = function () {
-       $scope.stale = false;
-       BT.scan(function () { $scope.$broadcast('scroll.refreshComplete'); });
+        $scope.stale = false;
+        BT.scan(function () { $scope.$broadcast('scroll.refreshComplete'); });
     }
 
     $scope.btScan = function () {
@@ -32,7 +32,7 @@ angular.module('starter.controllers', [])
 
     $scope.btConnect = function (deviceId) {
         $scope.spinner = true;
-        BT.connect(deviceId, function (val) { console.log("con val = " + val); $scope.connected = val; $scope.spinner = !val; if(val) { $scope.$apply() }});
+        BT.connect(deviceId, function (val) { console.log("con val = " + val); $scope.connected = val; $scope.spinner = !val; if (val) { $scope.$apply() } });
     };
     $scope.btDisconnect = function (deviceId) {
         $scope.spinner = true;
@@ -42,21 +42,3 @@ angular.module('starter.controllers', [])
         BT.write(value);
     };
 })
-
-.controller('SensorsCtrl', function($scope, Chats) {
-  $scope.chats = Chats.all();
-  $scope.remove = function(chat) {
-    Chats.remove(chat);
-  }
-})
-
-.controller('ChatDetailCtrl', function($scope, $stateParams, Chats) {
-  $scope.chat = Chats.get($stateParams.chatId);
-})
-
-
-.controller('MusicCtrl', function ($scope) {
-  $scope.settings = {
-    enableFriends: true
-  };
-});

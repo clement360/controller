@@ -56,7 +56,6 @@
     "res\\icons\\ios\\icon-60-3x.png",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\LED\\www\\font\\SourceSansPro-Regular.otf",
     "plugins\\fetch.json",
-    "config.xml",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\LED\\blue.jpg",
     "plugins\\cordova-plugin-bluetooth-serial\\src\\android\\com\\megster\\cordova\\BluetoothSerialService.java",
     "res\\screens\\wp8\\SplashScreenImage.jpg",
@@ -123,7 +122,6 @@
     "res\\screens\\windows\\SplashScreen.scale-240.png",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\LED\\www\\font\\SourceCodePro-Bold.otf",
     "res\\icons\\android\\icon-96-xhdpi.png",
-    "www\\js\\controllers.js",
     "www\\css\\style.css",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\LED\\www\\css\\topcoat-mobile-light.min.css",
     "plugins\\cordova-plugin-bluetooth-serial\\src\\ios\\MEGBluetoothSerial.h",
@@ -150,17 +148,24 @@
     "www\\templates\\tab-sensors.html",
     "www\\templates\\tabs.html",
     "res\\icons\\windows\\Square44x44Logo.scale-240.png",
-    "res\\screens\\android\\screen-mdpi-portrait.png"
+    "res\\screens\\android\\screen-mdpi-portrait.png",
+    "config.xml",
+    "www\\js\\controlCtrl.js",
+    "www\\js\\sensorCtrl.js",
+    "www\\js\\musicCtrl.js"
   ],
-  "deletedFilesIos": [],
+  "deletedFilesIos": [
+    "www\\js\\5aidzmoj.wfh~",
+    "www\\js\\controllers.js"
+  ],
   "addedPluginsIos": [
     "cordova-plugin-bluetooth-serial@0.4.4"
   ],
   "deletedPluginsIos": [],
-  "changedFiles": [
-    "www\\templates\\tab-control.html"
+  "changedFiles": [],
+  "deletedFiles": [
+    "www\\js\\controllers.js"
   ],
-  "deletedFiles": [],
   "addedPlugins": [],
   "deletedPlugins": []
 }
