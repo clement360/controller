@@ -56,6 +56,7 @@
     "res\\icons\\ios\\icon-60-3x.png",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\LED\\www\\font\\SourceSansPro-Regular.otf",
     "plugins\\fetch.json",
+    "config.xml",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\LED\\blue.jpg",
     "plugins\\cordova-plugin-bluetooth-serial\\src\\android\\com\\megster\\cordova\\BluetoothSerialService.java",
     "res\\screens\\wp8\\SplashScreenImage.jpg",
@@ -89,6 +90,7 @@
     "plugins\\cordova-plugin-bluetooth-serial\\CHANGES.txt",
     "www\\index.html",
     "res\\icons\\ios\\icon-40.png",
+    "www\\js\\controlCtrl.js",
     "res\\icons\\ios\\icon-60-2x.png",
     "plugins\\cordova-plugin-bluetooth-serial\\www\\bluetoothSerial.js",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\LED\\.cordova\\config.json",
@@ -125,6 +127,7 @@
     "www\\css\\style.css",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\LED\\www\\css\\topcoat-mobile-light.min.css",
     "plugins\\cordova-plugin-bluetooth-serial\\src\\ios\\MEGBluetoothSerial.h",
+    "www\\js\\musicCtrl.js",
     "res\\icons\\wp8\\ApplicationIcon.png",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\SimpleSerial\\README.md",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\SimpleSerial\\www\\index.html",
@@ -141,6 +144,7 @@
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\LED\\www\\font\\SourceCodePro-Semibold.otf",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\LED\\www\\font\\SourceSansPro-SemiboldIt.otf",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\Counter\\www\\js\\index.js",
+    "www\\js\\sensorCtrl.js",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\Counter\\www\\index.html",
     "res\\screens\\android\\screen-xhdpi-landscape.png",
     "plugins\\cordova-plugin-bluetooth-serial\\examples\\LED\\www\\font\\SourceSansPro-Light.otf",
@@ -149,23 +153,17 @@
     "www\\templates\\tabs.html",
     "res\\icons\\windows\\Square44x44Logo.scale-240.png",
     "res\\screens\\android\\screen-mdpi-portrait.png",
-    "config.xml",
-    "www\\js\\controlCtrl.js",
-    "www\\js\\sensorCtrl.js",
-    "www\\js\\musicCtrl.js"
+    "www\\js\\controlctrl.js"
   ],
-  "deletedFilesIos": [
-    "www\\js\\5aidzmoj.wfh~",
-    "www\\js\\controllers.js"
-  ],
+  "deletedFilesIos": [],
   "addedPluginsIos": [
     "cordova-plugin-bluetooth-serial@0.4.4"
   ],
   "deletedPluginsIos": [],
-  "changedFiles": [],
-  "deletedFiles": [
-    "www\\js\\controllers.js"
+  "changedFiles": [
+    "www\\templates\\tab-control.html"
   ],
+  "deletedFiles": [],
   "addedPlugins": [],
   "deletedPlugins": []
 }

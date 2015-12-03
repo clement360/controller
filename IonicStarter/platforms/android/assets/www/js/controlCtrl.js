@@ -32,7 +32,15 @@
 
     $scope.btConnect = function (deviceId) {
         $scope.spinner = true;
-        BT.connect(deviceId, function (val) { console.log("con val = " + val); $scope.connected = val; $scope.spinner = !val; if (val) { $scope.$apply() } });
+        BT.connect(
+            deviceId,
+            function (val) { 
+                console.log("con val = " + val); 
+                $scope.connected = val; 
+                $scope.spinner = !val; 
+                if (!$scope.$$phase) { $scope.$apply() }
+            }
+        );
     };
     $scope.btDisconnect = function (deviceId) {
         $scope.spinner = true;

@@ -43,7 +43,9 @@ C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\ww
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\css\style.css \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\img\ionic.png \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\app.js \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\controllers.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\controlCtrl.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\musicCtrl.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\sensorCtrl.js \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\services.js \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\cordova-plugin-bluetooth-serial \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\cordova-plugin-bluetooth-serial\www \

@@ -26,20 +26,45 @@
         </div>
       </div>
     </div>
-    <div class="list card">
-      <div class="item item-divider">Health</div>
-      <div class="item item-body">
-        <div ng-click="btWrite('1')">
-          You ate an apple today!
+    <!--<div class="list card">
+        <div class="row">
+            <div class="col">
+                <button class="button button-large button-dark"><i class="icon ion-chevron-up icon-accessory"></i></button>
+            </div>
+            <div class="col">
+                <button class="button button-large button-dark"><i class="icon ion-chevron-up icon-accessory"></i></button>
+            </div>
         </div>
-      </div>
-    </div>
-    <div class="list card">
-      <div class="item item-divider">Upcoming</div>
-      <div class="item item-body">
-        <div ng-click="btWrite('2')">
-          You have <b>29</b> meetings on your calendar tomorrow.
+        <div class="row">
+            <div class="col">
+                <button class="button button-large button-dark"><i class="icon ion-chevron-down icon-accessory"></i></button>
+            </div>
+            <div class="col">
+                <button class="button button-large button-dark"><i class="icon ion-chevron-down icon-accessory"></i></button>
+            </div>
         </div>
+    </div>-->
+    <div class="list card">
+      <div class="item item-divider">Control</div>
+      <div class="item item-body">
+          <div class="row">
+              <div class="col">
+                  <button class="button button-large button-dark" ng-click="btWrite('1')"><i class="icon ion-chevron-up icon-accessory"></i></button>
+              </div>
+          </div>
+          <div class="row">
+              <div class="col">
+                  <button class="button button-large button-dark" ng-click="btWrite('3')"><i class="icon ion-chevron-left icon-accessory"></i></button>
+              </div>
+              <div class="col">
+                  <button class="button button-large button-dark" ng-click="btWrite('4')"><i class="icon ion-chevron-right icon-accessory"></i></button>
+              </div>
+          </div>
+          <div class="row">
+              <div class="col">
+                  <button class="button button-large button-dark" ng-click="btWrite('2')"><i class="icon ion-chevron-down icon-accessory"></i></button>
+              </div>
+          </div>
       </div>
     </div>
   </ion-content>
