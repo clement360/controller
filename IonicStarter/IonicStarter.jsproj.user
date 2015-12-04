@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Android'">
-    <DebuggerFlavor>AndroidEmulator</DebuggerFlavor>
+    <DebuggerFlavor>RippleNexus7</DebuggerFlavor>
     <AndroidEmulatorID>AndroidDevice;Device</AndroidEmulatorID>
   </PropertyGroup>
   <PropertyGroup>
-    <ReferenceCachePath>C:\Users\Miguel\AppData\Local\Temp\IonicStarter_refcache</ReferenceCachePath>
-    <ToolsVersionPromptShown>1.6</ToolsVersionPromptShown>
+    <ReferenceCachePath>C:\Users\KEVIN\AppData\Local\Temp\4sdxugqd_IonicStarter_refcache</ReferenceCachePath>
+    <ToolsVersionPromptShown>1.7</ToolsVersionPromptShown>
   </PropertyGroup>
 </Project>
