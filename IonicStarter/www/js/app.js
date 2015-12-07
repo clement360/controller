@@ -37,47 +37,57 @@ angular.module('starter', ['ionic', 'music', 'sensor', 'control', 'starter.servi
   // Learn more here: https://github.com/angular-ui/ui-router
   // Set up the various states which the app can be in.
   // Each state's controller can be found in controllers.js
-  $stateProvider
+    $stateProvider
 
-  // setup an abstract state for the tabs directive
-    .state('tab', {
-    url: "/tab",
-    abstract: true,
-    templateUrl: "templates/tabs.html"
-  })
+    // setup an abstract state for the tabs directive
+      .state('tab', {
+          url: "/tab",
+          abstract: true,
+          templateUrl: "templates/tabs.html"
+      })
 
-  // Each tab has its own nav history stack:
+    // Each tab has its own nav history stack:
 
-  .state('tab.dash', {
-    url: '/dash',
-    views: {
-      'tab-dash': {
-        templateUrl: 'templates/tab-control.html',
-        controller: 'DashCtrl'
-      }
-    }
-  })
-
-  .state('tab.sensors', {
-      url: '/sensors',
-      views: {
-        'tab-sensors': {
-          templateUrl: 'templates/tab-sensors.html',
-          controller: 'SensorsCtrl'
+    .state('tab.dash', {
+        url: '/dash',
+        views: {
+            'tab-dash': {
+                templateUrl: 'templates/tab-control.html',
+                controller: 'DashCtrl'
+            }
         }
-      }
+    })
+
+    .state('tab.sensors', {
+        url: '/sensors',
+        views: {
+            'tab-sensors': {
+                templateUrl: 'templates/tab-sensors.html',
+                controller: 'SensorsCtrl'
+            }
+        }
     })
 
 
-  .state('tab.music', {
-    url: '/music',
-    views: {
-      'tab-music': {
-        templateUrl: 'templates/tab-music.html',
-        controller: 'MusicCtrl'
-      }
-    }
-  });
+    .state('tab.music', {
+        url: '/music',
+        views: {
+            'tab-music': {
+                templateUrl: 'templates/tab-music.html',
+                controller: 'PlayerCtrl'
+            }
+        }
+    })
+
+    .state('tab.browse', {
+        url: '/browse',
+        views: {
+            'tab-music': {
+                templateUrl: 'templates/browse.html',
+                controller: 'BrowseCtrl'
+            }
+        }
+    });
 
   // if none of the above states are matched, use this as the fallback
   $urlRouterProvider.otherwise('/tab/dash');

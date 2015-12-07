@@ -1,22 +1,58 @@
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes.dex : \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECentralPlugin$1.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECentralPlugin.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECommand.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\Helper.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\Peripheral.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\UUIDHelper.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial$1.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial$2.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$AcceptThread.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectedThread.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectThread.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\BuildConfig.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\MainActivity.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$attr.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$drawable.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$string.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$xml.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\dexedLibs\classes-12b5dd4da8fc8b83a400b2148457add7.jar \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes.dex : \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial$1.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial$2.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$AcceptThread.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectedThread.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectThread.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\BuildConfig.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\MainActivity.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$attr.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$drawable.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$string.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$xml.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\ContentFilesystem.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\DirectoryManager.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\EncodingException.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileExistsException.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileHelper.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$1.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$LimitedInputStream.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$ReadFileCallback.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$1.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$10.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$11.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$12.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$13.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$14.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$15.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$16.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$17.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$18.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$19.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$2.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$20.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$21.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$22.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$23.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$24.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$25.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$26.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$3.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$4.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$5.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$6.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$7.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$8.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$9.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$FileOp.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\InvalidModificationException.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\LocalFilesystem.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\LocalFilesystemURL.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\NoModificationAllowedException.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\TypeMismatchException.class \
+C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\dexedLibs\classes-303e36fb0f6d4e37ccd66e5b0bbd648b.jar \
