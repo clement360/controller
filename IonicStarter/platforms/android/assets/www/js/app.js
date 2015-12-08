@@ -68,23 +68,22 @@ angular.module('starter', ['ionic', 'music', 'sensor', 'control', 'starter.servi
         }
     })
 
-
     .state('tab.music', {
         url: '/music',
         views: {
             'tab-music': {
                 templateUrl: 'templates/tab-music.html',
-                controller: 'PlayerCtrl'
+                controller: 'MusicCtrl'
             }
         }
     })
 
-    .state('tab.browse', {
-        url: '/browse',
+    .state('tab.player', {
+        url: '/player',
         views: {
             'tab-music': {
-                templateUrl: 'templates/browse.html',
-                controller: 'BrowseCtrl'
+                templateUrl: 'templates/player.html',
+                controller: 'PlayerCtrl'
             }
         }
     });
