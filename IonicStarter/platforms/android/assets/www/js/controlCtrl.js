@@ -4,6 +4,7 @@
     $scope.devices = BT.devices;
     $scope.stale = true;
     $scope.spinner = false;
+    $scope.pressed = false;
 
     var success = function () {
         if ($scope.devices.length < 1) {
@@ -20,6 +21,14 @@
     $scope.onRefresh = function () {
         $scope.stale = false;
         BT.scan(function () { $scope.$broadcast('scroll.refreshComplete'); });
+    }
+
+    $scope.down = function () {
+        $scope.pressed = true;
+    }
+
+    $scope.up = function () {
+        $scope.pressed = false;
     }
 
     $scope.btScan = function () {

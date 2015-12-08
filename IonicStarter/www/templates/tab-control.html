@@ -45,24 +45,24 @@
         </div>
     </div>-->
     <div class="list card">
-      <div class="item item-divider">Control</div>
+      <div class="item item-divider">Control {{pressed}}</div>
       <div class="item item-body">
           <div class="row">
               <div class="col">
-                  <button class="button button-large button-dark" ng-click="btWrite('1')"><i class="icon ion-chevron-up icon-accessory"></i></button>
+                  <button class="button button-large button-dark" on-touch="down()" on-release="up()" ng-click="btWrite('1')"><i class="icon ion-chevron-up icon-accessory"></i></button>
               </div>
           </div>
           <div class="row">
               <div class="col">
-                  <button class="button button-large button-dark" ng-click="btWrite('3')"><i class="icon ion-chevron-left icon-accessory"></i></button>
+                  <button class="button button-large button-dark" on-touch="down()" on-release="up()" ng-click="btWrite('3')"><i class="icon ion-chevron-left icon-accessory"></i></button>
               </div>
               <div class="col">
-                  <button class="button button-large button-dark" ng-click="btWrite('4')"><i class="icon ion-chevron-right icon-accessory"></i></button>
+                  <button class="button button-large button-dark" on-touch="down()" on-release="up()"  ng-click="btWrite('4')"><i class="icon ion-chevron-right icon-accessory"></i></button>
               </div>
           </div>
           <div class="row">
               <div class="col">
-                  <button class="button button-large button-dark" ng-click="btWrite('2')"><i class="icon ion-chevron-down icon-accessory"></i></button>
+                  <button class="button button-large button-dark" on-touch="down()" on-release="up()" ng-click="btWrite('2')"><i class="icon ion-chevron-down icon-accessory"></i></button>
               </div>
           </div>
       </div>

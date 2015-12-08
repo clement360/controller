@@ -44,10 +44,10 @@
         }
     },
     "installed_plugins": {
-        "cordova-plugin-bluetooth-serial": {
+        "org.apache.cordova.file": {
             "PACKAGE_NAME": "io.cordova.myappe2785d518e9f4f6ea03055878dd7a400"
         },
-        "org.apache.cordova.file": {
+        "cordova-plugin-bluetooth-serial": {
             "PACKAGE_NAME": "io.cordova.myappe2785d518e9f4f6ea03055878dd7a400"
         }
     },

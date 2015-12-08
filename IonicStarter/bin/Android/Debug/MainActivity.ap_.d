@@ -1,85 +1,87 @@
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\MainActivity.ap_ \
- : C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\drawable\icon.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\drawable-hdpi\icon.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\drawable-land-hdpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\drawable-land-ldpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\drawable-land-mdpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\drawable-land-xhdpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\drawable-ldpi\icon.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\drawable-mdpi\icon.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\drawable-port-hdpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\drawable-port-ldpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\drawable-port-mdpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\drawable-port-xhdpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\drawable-xhdpi\icon.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\values\strings.xml \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\res\xml\config.xml \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\res\drawable\icon.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\res\drawable-hdpi\icon.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\res\drawable-ldpi\icon.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\res\drawable-mdpi\icon.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\_where-is-www.txt \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\cordova.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\cordova_plugins.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\css \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\img \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\index.html \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\scripts \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\templates \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\VSBuildInfo.xml \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\css\index.css \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\css\style.css \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\img\ionic.png \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\js\app.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\js\controlCtrl.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\js\musicCtrl.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\js\sensorCtrl.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\js\services.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\cordova-plugin-bluetooth-serial \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\cordova-plugin-bluetooth-serial\www \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\cordova-plugin-bluetooth-serial\www\bluetoothSerial.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\android \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\DirectoryEntry.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\DirectoryReader.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\Entry.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\File.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileEntry.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileError.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileReader.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileSystem.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\fileSystemPaths.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\fileSystems-roots.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\fileSystems.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileUploadOptions.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileUploadResult.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileWriter.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\Flags.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\LocalFileSystem.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\Metadata.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\ProgressEvent.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\requestFileSystem.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\resolveLocalFileSystemURI.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\android\FileSystem.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\scripts\android2.3-jscompat.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\scripts\platformOverrides.js \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\templates\browse.html \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\templates\chat-detail.html \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\templates\tab-control.html \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\templates\tab-music.html \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\templates\tab-sensors.html \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\assets\www\templates\tabs.html \
-C:\Users\KEVIN\Desktop\New folder\testing\IonicStarter\platforms\android\ant-build\AndroidManifest.xml \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\MainActivity.ap_ \
+ : C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-hdpi\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-land-hdpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-land-ldpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-land-mdpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-land-xhdpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-ldpi\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-mdpi\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-port-hdpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-port-ldpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-port-mdpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-port-xhdpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-xhdpi\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\values\strings.xml \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\xml\config.xml \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-hdpi\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-land-hdpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-land-ldpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-land-mdpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-ldpi\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-mdpi\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-port-hdpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-port-ldpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\_where-is-www.txt \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\cordova.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\cordova_plugins.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\css \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\img \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\index.html \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\scripts \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\VSBuildInfo.xml \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\css\index.css \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\css\style.css \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\img\ionic.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\app.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\controlCtrl.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\musicCtrl.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\sensorCtrl.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\services.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\cordova-plugin-bluetooth-serial \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\cordova-plugin-bluetooth-serial\www \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\cordova-plugin-bluetooth-serial\www\bluetoothSerial.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\android \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\DirectoryEntry.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\DirectoryReader.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\Entry.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\File.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileEntry.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileError.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileReader.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileSystem.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\fileSystemPaths.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\fileSystems-roots.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\fileSystems.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileUploadOptions.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileUploadResult.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\FileWriter.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\Flags.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\LocalFileSystem.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\Metadata.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\ProgressEvent.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\requestFileSystem.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\resolveLocalFileSystemURI.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file\www\android\FileSystem.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\scripts\android2.3-jscompat.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\scripts\platformOverrides.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\ble-detail.html \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\browse.html \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\chat-detail.html \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\tab-ble.html \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\tab-control.html \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\tab-music.html \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\tab-sensors.html \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\tabs.html \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\AndroidManifest.xml \
