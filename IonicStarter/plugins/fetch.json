@@ -15,7 +15,7 @@
     "org.apache.cordova.media": {
         "source": {
             "type": "registry",
-            "id": "org.apache.cordova.media"
+            "id": "org.apache.cordova.media@0.2.16"
         }
     }
 }

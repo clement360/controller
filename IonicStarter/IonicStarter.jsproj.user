@@ -5,11 +5,7 @@
     <AndroidEmulatorID>AndroidDevice;Device</AndroidEmulatorID>
   </PropertyGroup>
   <PropertyGroup>
-<<<<<<< HEAD
-    <ReferenceCachePath>C:\Users\Miguel\AppData\Local\Temp\yhu4meyb_IonicStarter_refcache</ReferenceCachePath>
-=======
-    <ReferenceCachePath>C:\Users\KEVIN\AppData\Local\Temp\4nxdjonl_IonicStarter_refcache</ReferenceCachePath>
->>>>>>> b2669767f851cc6d2a0d5b58f2577b81a59f951b
+    <ReferenceCachePath>C:\Users\Miguel\AppData\Local\Temp\k13llbpq_IonicStarter_refcache</ReferenceCachePath>
     <ToolsVersionPromptShown>1.7</ToolsVersionPromptShown>
   </PropertyGroup>
 </Project>

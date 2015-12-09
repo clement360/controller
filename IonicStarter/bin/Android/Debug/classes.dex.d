@@ -1,131 +1,70 @@
-<<<<<<< HEAD
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes.dex : \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECentralPlugin$1.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECentralPlugin.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECommand.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\Helper.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\Peripheral.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\UUIDHelper.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial$1.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial$2.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$AcceptThread.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectedThread.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectThread.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\BuildConfig.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\MainActivity.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$attr.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$drawable.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$string.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$xml.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\ContentFilesystem.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\DirectoryManager.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\EncodingException.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileExistsException.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileHelper.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$1.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$LimitedInputStream.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$ReadFileCallback.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$1.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$10.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$11.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$12.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$13.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$14.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$15.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$16.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$17.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$18.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$19.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$2.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$20.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$21.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$22.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$23.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$24.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$25.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$26.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$3.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$4.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$5.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$6.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$7.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$8.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$9.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$FileOp.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\InvalidModificationException.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\LocalFilesystem.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\LocalFilesystemURL.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\NoModificationAllowedException.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\TypeMismatchException.class \
-C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\dexedLibs\classes-12b5dd4da8fc8b83a400b2148457add7.jar \
-=======
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes.dex : \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial$1.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial$2.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$AcceptThread.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectedThread.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectThread.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\BuildConfig.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\MainActivity.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$attr.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$drawable.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$string.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$xml.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\ContentFilesystem.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\DirectoryManager.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\EncodingException.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileExistsException.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileHelper.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$1.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$LimitedInputStream.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$ReadFileCallback.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$1.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$10.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$11.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$12.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$13.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$14.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$15.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$16.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$17.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$18.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$19.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$2.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$20.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$21.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$22.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$23.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$24.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$25.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$26.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$3.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$4.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$5.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$6.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$7.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$8.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$9.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$FileOp.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\InvalidModificationException.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\LocalFilesystem.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\LocalFilesystemURL.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\NoModificationAllowedException.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\TypeMismatchException.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\media\AudioHandler.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\media\AudioPlayer$1.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\media\AudioPlayer$MODE.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\media\AudioPlayer$STATE.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\media\AudioPlayer.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\media\FileHelper.class \
-C:\Users\KEVIN\Desktop\Repo\controller\IonicStarter\platforms\android\ant-build\dexedLibs\classes-5c745e0bdfdeabb67f555408f1350dde.jar \
->>>>>>> b2669767f851cc6d2a0d5b58f2577b81a59f951b
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes.dex : \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECentralPlugin$1.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECentralPlugin.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\BLECommand.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\Helper.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\Peripheral.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\ble\central\UUIDHelper.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial$1.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial$2.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerial.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$AcceptThread.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectedThread.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService$ConnectThread.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\com\megster\cordova\BluetoothSerialService.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\BuildConfig.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\MainActivity.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$attr.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$drawable.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$string.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R$xml.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\io\cordova\myappe2785d518e9f4f6ea03055878dd7a400\R.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\ContentFilesystem.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\DirectoryManager.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\EncodingException.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileExistsException.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileHelper.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$1.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$LimitedInputStream.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem$ReadFileCallback.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\Filesystem.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$1.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$10.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$11.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$12.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$13.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$14.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$15.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$16.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$17.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$18.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$19.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$2.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$20.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$21.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$22.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$23.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$24.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$25.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$26.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$3.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$4.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$5.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$6.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$7.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$8.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$9.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils$FileOp.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\FileUtils.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\InvalidModificationException.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\LocalFilesystem.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\LocalFilesystemURL.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\NoModificationAllowedException.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\file\TypeMismatchException.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\media\AudioHandler.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\media\AudioPlayer$1.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\media\AudioPlayer$MODE.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\media\AudioPlayer$STATE.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\media\AudioPlayer.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\classes\org\apache\cordova\media\FileHelper.class \
+C:\Users\Miguel\Documents\Visual Studio 2015\Projects\IonicStarter\IonicStarter\platforms\android\ant-build\dexedLibs\classes-c8e5e842a7abf792278362f5be7a7a0e.jar \
