@@ -1,39 +1,12 @@
 <ion-view view-title="Control">
   <ion-content class="padding">
-    <ion-refresher pulling-text="Pull to refresh..."
-                    on-refresh="onRefresh()">
-    </ion-refresher>
-      <!--<button ng-show="stale" class="button button-full button-balanced" id="searchBtn" ng-click="btScan()">
-          Search for devices &nbsp; <div ng-show="spinner"><ion-spinner icon="ios"></ion-spinner></div>
-      </button>-->
-    <ion-list>
-        <ion-item class="item-icon-right" ng-repeat="device in devices" type="item-text-wrap" ng-click="btConnect(device.id)">
-            <h2>{{device.name}}</h2>
-            <p>{{device.id}}</p>
-            <!--<i class="icon ion-chevron-right icon-accessory"></i>-->
-        </ion-item>
-    </ion-list>
-    <div class="list card">
-      <div class="item item-divider">BB-8 Connection 2</div>
-      <div class="item item-body">
-        <div>
-            <button ng-hide="connected" ng-click="btConnect(0)" class="button button-block button-balanced">
-                Connect <div style="float: right" ng-show="spinner"><ion-spinner icon="ios"></ion-spinner></div>
-            </button>
-            <button ng-show="connected" ng-click="btDisconnect()" class="button button-block button-assertive">
-                Disconnect <div style="float: right" ng-show="spinner"><ion-spinner icon="ios"></ion-spinner></div>
-            </button>
-        </div>
-      </div>
-    </div>
     <div class="list card">
         <ion-item>
             <div class="video-container">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/ifCWN5pJGIE?autoplay=1" frameborder="0" allowfullscreen></iframe>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Ed3HpFbm-R4?autoplay=1?loop=1" frameborder="0" allowfullscreen></iframe>
             </div>
         </ion-item>
     </div>
-
     <div class="list card">
       <div class="item item-divider">Control</div>
       <div class="item item-body">
