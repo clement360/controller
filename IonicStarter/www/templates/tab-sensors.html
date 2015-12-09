@@ -5,16 +5,24 @@
           Temperature
       </div>
       <div class="item item-text-wrap">
-          <canvas id="line" class="chart chart-line" data="data" labels="labels" legend="true" series="series" options="{showTooltips: false}"></canvas>
+          <canvas id="bar" class="chart chart-bar" data="data" labels="labels" legend="true" series="series", fillColor="rgba(205, 169, 151)", options="{showTooltips: false , fillColor : rgba(205, 169, 151)}"></canvas>
       </div>
     </div>
     <div class="card">
       <div class="item item-divider">
-          A bar chart
+          Batery Usage
       </div>
       <div class="item item-text-wrap">
-          <canvas id="bar" class="chart chart-bar" data="data" labels="labels" legend="true" series="series" options="{showTooltips: false}"></canvas>
+          <canvas id="line" class="chart chart-line" data="data1" labels="labels" legend="true" series="series", options="{showTooltips: true}"></canvas>
       </div>
     </div>
+    <div class="card">
+      <div class="item item-divider">
+          Bluetooth Signale Strenght
+      </div>
+      <div class="item item-text-wrap">
+          <canvas id="line" class="chart chart-line" data="data2" labels="labels" legend="true" series="series" , options="{showTooltips: false, strokeColor: 'rgba(205, 169, 151)'}"></canvas>
+      </div>
+    </div
   </ion-content>
 </ion-view>
