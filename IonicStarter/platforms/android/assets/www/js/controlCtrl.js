@@ -6,6 +6,10 @@
     $scope.spinner = false;
     $scope.pressed = false;
 
+    var updateControl = function (index, value) {
+        return this.substr(0, index) + value + this.substr(index + value.length);
+    };
+
     var success = function () {
         if ($scope.devices.length < 1) {
             // a better solution would be to update a status message rather than an alert
