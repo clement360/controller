@@ -1,0 +1,17 @@
+﻿<ion-view view-title="Settings">
+    <ion-content class="padding">
+        <div class="list card">
+            <div class="item item-divider">BB-8 Connection</div>
+            <div class="item item-body">
+                <div>
+                    <button ng-hide="connected" ng-click="btConnect(0)" class="button button-block button-balanced">
+                        Connect <div style="float: right" ng-show="spinner"><ion-spinner icon="ios"></ion-spinner></div>
+                    </button>
+                    <button ng-show="connected" ng-click="btDisconnect()" class="button button-block button-assertive">
+                        Disconnect <div style="float: right" ng-show="spinner"><ion-spinner icon="ios"></ion-spinner></div>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </ion-content>
+</ion-view>
