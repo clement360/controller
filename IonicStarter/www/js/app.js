@@ -5,7 +5,7 @@
 // the 2nd parameter is an array of 'requires'
 // 'starter.services' is found in services.js
 // 'starter.controllers' is found in controllers.js
-angular.module('starter', ['ionic', 'music', 'sensor', 'control', 'starter.services'])
+angular.module('starter', ['ionic', 'music', 'sensor', 'control', 'starter.services', 'chart.js'])
 
 .run(function($ionicPlatform) {
   $ionicPlatform.ready(function() {
@@ -68,23 +68,22 @@ angular.module('starter', ['ionic', 'music', 'sensor', 'control', 'starter.servi
         }
     })
 
-
     .state('tab.music', {
         url: '/music',
         views: {
             'tab-music': {
                 templateUrl: 'templates/tab-music.html',
-                controller: 'PlayerCtrl'
+                controller: 'MusicCtrl'
             }
         }
     })
 
-    .state('tab.browse', {
-        url: '/browse',
+    .state('tab.player', {
+        url: '/player',
         views: {
             'tab-music': {
-                templateUrl: 'templates/browse.html',
-                controller: 'BrowseCtrl'
+                templateUrl: 'templates/player.html',
+                controller: 'PlayerCtrl'
             }
         }
     });

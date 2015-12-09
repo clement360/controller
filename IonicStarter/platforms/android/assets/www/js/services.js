@@ -101,4 +101,46 @@ angular.module('starter.services', [])
             bluetoothSerial.write(value, function () { console.log("SUCCESS = " + value) }, function () { console.log("FAIL= " + value) });
         }
     };
+})
+
+.factory('MusicFactory', function () {
+    return {
+        track: null,
+
+        trackName: "Nothing is playing",
+
+        startTrack: function (source) {
+            var that = this;
+
+            if (that.track) {
+                that.track.stop();
+            }
+
+            that.track = new Media(source);
+            that.track.play();
+
+            that.trackName = "Track: " + decodeURIComponent((source + '').replace(/\+/g, '%20')).replace(/^.*[\\\/]/, '').replace(".mp3", '');
+        },
+
+        playTrack: function () {
+            var that = this;
+            if (that.track)
+                that.track.play();
+        },
+
+        pauseTrack: function () {
+            var that = this;
+            if (that.track)
+                that.track.pause();
+        },
+
+        stopTrack: function () {
+            var that = this;
+            if (that.track) {
+                that.track.stop();
+                that.trackName = "Nothing is playing";
+            }
+        }
+    };
+
 });

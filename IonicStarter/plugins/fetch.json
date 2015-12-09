@@ -11,5 +11,11 @@
             "type": "registry",
             "id": "org.apache.cordova.file@1.3.3"
         }
+    },
+    "org.apache.cordova.media": {
+        "source": {
+            "type": "registry",
+            "id": "org.apache.cordova.media"
+        }
     }
 }
