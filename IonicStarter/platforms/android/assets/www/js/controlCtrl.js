@@ -23,12 +23,6 @@
         alert(error);
     };
 
-    // pull to refresh
-    $scope.onRefresh = function () {
-        $scope.stale = false;
-        BT.scan(function () { $scope.$broadcast('scroll.refreshComplete'); });
-    }
-
     $scope.down = function (val) {
         switch(val) {
             case 1:
@@ -64,14 +58,6 @@
         };
     }
 
-    $scope.btScan = function () {
-        $scope.spinner = true;
-        BT.scan(function () {
-            $scope.$broadcast('scroll.refreshComplete');
-            $scope.stale = false;
-        })
-    };
-
     var sendStatus = function () {
         var forw = $scope.forward;
         var back = $scope.back;
@@ -94,23 +80,6 @@
         }
     };
 
-    $scope.btConnect = function (deviceId) {
-        $scope.spinner = true;
-        BT.connect(
-            deviceId,
-            function (val) { 
-                console.log("con val = " + val); 
-                $scope.connected = val; 
-                $scope.spinner = !val;
-                if (val == true) { window.setInterval(sendStatus, 100); }
-                if (!$scope.$$phase) { $scope.$apply() }
-            }
-        );
-    };
-    $scope.btDisconnect = function (deviceId) {
-        $scope.spinner = true;
-        BT.disconnect(function (val) { console.log("disc val = " + val); $scope.connected = val; $scope.spinner = val; if (!val) { $scope.$apply() } });
-    };
     $scope.btWrite = function (value) {
         //Disabled for now
         // BT.write(value);
