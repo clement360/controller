@@ -19,4 +19,8 @@
         $scope.spinner = true;
         BT.disconnect(function (val) { console.log("disc val = " + val); $scope.connected = val; $scope.spinner = val; if (!val) { $scope.$apply() } });
     };
+
+    $scope.btWrite = function (value) {
+        BT.write(value);
+    };
 })

@@ -12,6 +12,8 @@ C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawa
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-port-mdpi\screen.png \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-port-xhdpi\screen.png \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-xhdpi\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-xxhdpi\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\drawable-xxxhdpi\icon.png \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\values\strings.xml \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\res\xml\config.xml \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable\icon.png \
@@ -27,6 +29,8 @@ C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-port-mdpi\screen.png \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-xhdpi\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-xxhdpi\icon.png \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\res\drawable-xxxhdpi\icon.png \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\_where-is-www.txt \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\cordova.js \
@@ -50,6 +54,7 @@ C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\ww
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\musicCtrl.js \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\sensorCtrl.js \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\services.js \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\js\settingsCtrl.js \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\cordova-plugin-bluetooth-serial \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.file \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\plugins\org.apache.cordova.media \
@@ -85,8 +90,10 @@ C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\ww
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\scripts\platformOverrides.js \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\chat-detail.html \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\page.html \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\player.html \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\tab-control.html \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\tab-music.html \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\tab-sensors.html \
+C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\tab-settings.html \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\assets\www\templates\tabs.html \
 C:\Users\Miguel\Source\Repos\controller\IonicStarter\platforms\android\ant-build\AndroidManifest.xml \

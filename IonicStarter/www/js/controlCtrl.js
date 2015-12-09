@@ -9,8 +9,7 @@
     $scope.left = 0;
     $scope.right = 0;
 
-    var lastSent = 9;
-
+    var lastSent = 0;
 
     var success = function () {
         if ($scope.devices.length < 1) {
@@ -80,8 +79,10 @@
         }
     };
 
-    $scope.btWrite = function (value) {
-        //Disabled for now
-        // BT.write(value);
+    var init = function () {
+        setInterval(sendStatus, 100);
     };
+    init();
+
+
 })
